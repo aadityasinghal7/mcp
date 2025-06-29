@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server enabling AI assistants to interact with Azure DevOps services.
 
+<a href="https://glama.ai/mcp/servers/@aadityasinghal7/mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@aadityasinghal7/mcp/badge" alt="Azure DevOps Server MCP server" />
+</a>
+
 ## Overview
 
 This project implements a Model Context Protocol (MCP) server that allows AI assistants (like Claude) to interact with Azure DevOps, providing a bridge between natural language interactions and the Azure DevOps REST API.
