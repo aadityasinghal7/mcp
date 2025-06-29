@@ -1,0 +1,202 @@
+Project Name,Project ID,Team Name,Team ID
+NAZ-FinOps,270923ac-dea9-4965-b464-3bd527de5f65,NAZ-FinOps Team,999309df-d6c1-45b3-8654-2d2aa5233e3a
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,wholesaler_tech,fc67a84a-c603-4781-bd5e-4bada5c9d2a5
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,migration_projects,2b598d0e-a984-4e58-b48a-9e05e5c64716
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,naz-oneportal,f3e2718e-5e0f-4ea8-81f5-864bc8d4cab6
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,bogus,0858772e-9fce-4c6e-8612-373110ed383f
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,bees_deliver,0c91a513-133b-420b-972c-7481f1ec8995
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,craft,1ff88b2f-7853-444f-bc9a-9b7dae1c69c8
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,playmaker,6036ee92-a1c3-42d7-a7b3-e1910a622d39
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,naz-bees-campaign-manager,300ce632-2c9d-4b62-8696-8ab5370b1202
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,iris,71fa8b35-f857-4e5e-a6a5-9b14997beab2
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,engineering_platforms,f3f09b93-5b51-4a37-8119-94640fb9adc6
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,engineering,5a534783-35d8-4192-8def-102e806a07cd
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,data_science,bfb67262-1c79-4467-a050-57254f0971d2
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,sales,7c25933d-5d28-419a-b1ea-994d23457c7e
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,qr_beer,2e95979f-5719-4ff4-b3b8-9f08fb36ce93
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,m360,7237b348-3604-4d31-aec9-dd2e4997fb01
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,clear_chain,fc3e541c-25d0-4072-b17b-dd3f383cafcb
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,engineering_data_platforms,91a90ce7-51f9-497b-be5a-84678260df8b
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,naz-m360,eff45538-f785-4a76-9782-bf2296026019
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,far,613a529a-7f75-4051-8443-5945d0301400
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,marketing,36e7fbaf-7d6c-4c9f-984b-4c5beb56af47
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,engineering_api,435657c7-8ab9-4df2-856e-9235bce70a2b
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,perspective,dd53668e-d897-4465-bc0a-c79d6b326f30
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,sales_ops_connectria,f80bf3ef-46b4-48c2-a28b-ded82ce41f66
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,naz,9ff9a6a8-3dfd-4ab4-be06-0cc4324faa76
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,naz-hero,b4ea55df-0595-4b10-a574-eb027b214dce
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,hero,0ca6d426-07af-44e0-8bd1-c8fbc9eed1dc
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,naz-fusion,88ecb001-0e49-4bb3-8671-b97efc34dfbd
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,naz-watchtower,2e362995-fd12-4ed6-bca2-43565e2a6a70
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,naz-ab-marketing,37bc2693-674d-4645-8918-05ce7a0f2c30
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,Supply Apps Modernization,c7711aca-b09f-41b3-9886-f3e6e3faaabb
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,saz_radar,6f72bbc0-b939-425d-8b9f-55226da5c38c
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,supply_apps,5b2c3508-c121-4e6d-9793-27312ae1f18e
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,naz-abwp,ca0a6eab-4379-45d8-be03-90047fc9bb56
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,commercial_finance,7e15da16-06d5-4daf-bab9-ab1b2385432d
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,ds_decom,ae833230-c49f-4165-8b36-e6004a82ca24
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,naz-alchemy,268f6fd9-5618-4f80-8c8b-b1c55baac35d
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,naz-darwin,2df2da15-dfb4-4d57-a52a-a7d36c64c80e
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,watchtower,7d504ea1-3c23-40cc-b2c8-e26b0f8bf680
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,darwin,8ab62f81-49ae-4f13-8ebc-610b032b20d7
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,martech,545ae713-6412-414e-bd64-412ed2fa9356
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,naz-legend,210d54ab-d550-494f-b371-377b13e13567
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,naz-iris,9e25a8d5-2dc5-4ed1-a25b-3b811a946dfe
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,Engineering_All,86f202b2-cd04-4b4a-aa90-75d339fe9229
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,abwp,7ad16001-7d61-44a0-a416-430ad7618dfb
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,freight_factor,1e132168-9ac0-48d9-805e-a7986cb2071b
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,mdm,afff1336-be5a-4abb-bca6-c5d20a53ad65
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,naz-canada-bees-delivery,bce7e7cc-6771-40a7-b783-49c898f2695c
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,brand_websites,4ac6016c-d6e7-4296-88fd-af13dc1bd7bd
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,product_ marketing,c6c8ae70-881e-4784-b343-e60f43407eaa
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,naz_adapters,dd80f676-b838-4e37-8840-4a16164dd548
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,naz-freight-factor,f5dfc898-fe2e-4638-9ecd-a8a1bd99156b
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,bi_platform,f85f6d3c-80b8-4dc8-a5c9-32ddefc7271a
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,ps2,2db0bc8c-7599-448d-87fb-aa1398fdd883
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,legal_corp_affairs,ef2faf73-0415-4ae1-99af-e8839cb108fb
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,naz-intelligent-shipment,7cdb2513-604d-4afd-90fd-cdd907f92d36
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,lola,b269305c-7dd4-46f2-9fd5-2e514d1593a8
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,supply,3e30a7fa-9710-49dc-85c2-2a10f22917b7
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,one_portal,3a37938c-4099-404e-85c7-266f985bb0ef
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,data_services,1defdb5a-f4c8-402b-a6d8-f04484293959
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,engineering_frontend_web,564757b3-5386-48e4-b5dd-9a87ee32ddff
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,naz-case,dad32210-af56-4bfc-8b6c-58063633a932
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,qsi,4b1754b9-b3ce-4abc-b5f3-c42baf72b1ad
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,data_ and_analytics,9f54a5d4-4ae1-4eaf-b33b-c9d16cd524af
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,Frontend_Mobile,608cf871-1703-40d1-8bd0-2145e4101571
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,dse_contractors,7001dff4-e04f-4abd-b1e8-aaf11bfce192
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,naz-product-supply-2,d6aa9f0e-57d1-414f-91fd-badf0d4dd401
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,people,42da35c9-c22e-44db-968d-254b1f133534
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,docs_beertech,3ee3a8bb-ed2a-424a-894b-61119bd0fc69
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,financial_planning_and_analysis,9a5ac75c-1cd8-4fb0-82b7-b38d59b7b9c6
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,Frontend_Design,e7419772-202b-4be5-9cce-b12cc94ccb77
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,pricing,ba4a086e-5343-4c51-87c8-f13b3044a149
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,naztech,cae90730-9dd2-43ad-8db9-de821e9796f2
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,ca_bees_delivery,8ee7b669-f14d-4bdc-9ecf-1f4a7e6b7d5f
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,bees_campaign_manager,27c7da0b-7e3c-4619-afad-c59bd2ee98ad
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,product_office,7ad62c79-d33e-47b8-99a3-5d29d1f67350
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,engineering_backend,deeb1551-0b5f-4b45-bb8f-99d4cc9ca7d1
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,engineering_frontend,1d120ab2-7f31-4af3-91b3-bff04fdafff7
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,data_services_core,8e1dd33c-cb7b-40fc-a16c-5f770a32eca1
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,tech,60a192eb-0468-425f-9101-e4da01bdd246
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,legend,594f6165-48a7-46cb-901d-91be83b5270e
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,naz-radar,415abd62-a4ee-4684-be57-a81cb3807846
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,data_services_bi,d4ece694-77d3-4221-b2d0-3a1f32c254dd
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,prc,5274849e-fae2-4324-915f-92e8017f47b0
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,logistics,fd19565d-3910-482f-b573-8fd67dceb06f
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,qrbeer,94155729-a0b0-407f-8b94-37b44631e8b6
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,aap,6ccbd4fa-2895-40b3-9ae3-9201cb69e68c
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,engineering_qa,7f040389-3d15-4edd-95ba-14adbce03d57
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,naz-supply-apps,0c9157d5-2dbf-48d6-bea5-4d0de758735f
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,procurement,e694f9d3-ce06-44cb-a58e-a76ec48fd4ac
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,cts,f378d3d6-8df4-4d68-881a-4783c4543d8d
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,federal_alcohol_records,eba5e300-7f03-4af6-9c10-e574565a4355
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,commercial,347e7edf-37bc-43d1-bb56-b2556b858d08
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,alchemy,b49237c0-6107-4858-8930-558da1077790
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,oneportal,9813ff7a-5e91-4df7-90bc-f540996fa872
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,ab_marketing,31cfdea9-f15f-4dfc-b389-a9d59be9ebb4
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,brew_dat,fb915dc5-57f5-410e-9a62-a51ecdfb376f
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,btos,04620644-b6d3-4e26-8293-c565ab8b4ac1
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,naz-lola,bd7311b1-68e7-40b4-9953-681270af5d6f
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,radar,ea82fc83-02c9-4ab9-853f-68ef05a7ba5e
+naz_tech_test,7a00042f-7c2d-4e2e-be6e-8d21c71aa10a,finance,5e44f4a4-b11f-4d00-8120-5db0b9e4f0b3
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,ECHo Escalation Portal,c5d9ddd0-67b8-4ec6-b84c-047c434ead7e
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,SAP ASP - Canada APO,db9df325-a10c-4770-814e-a17660e32bcc
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Ask AB Eagle,140fb575-80ab-4174-a574-71519fcf6ec5
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,HP Quality Center,d3f328a3-90f6-4f40-a85a-34b517581577
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Labor Time Management,9e5e745d-38a1-4ef6-9807-092f2e03d0ea
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Teradata,c7463cf8-74ef-4fa0-8541-24aad60f0980
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,ABBYY Flexicapture OCR,d527c598-ed3e-496a-a489-b32b974b2e4d
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Nakisa Lease Accounting Software,243c59ae-da6f-4191-ae3c-91357dbeacdb
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Supply Chain Portal,86657cbf-04bd-4a7c-9e08-216295bdd514
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Wireless Warehouse Management Solutions,171ab0f0-b2bf-4ddb-827f-4def9fbce3e1
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,SAP Nightly Download,e6104f48-e55a-4de0-9b40-ca365bc2e9f3
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Bees,671630ac-09d1-41e7-8dee-8be58660d9d4
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,finance,f6af036a-b066-44d1-90c2-d48ace40e475
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,IT Asset Management,534c55e4-e0dd-4e17-b377-516c8b3a56ef
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Document Exchange,9540ad5e-04c5-4306-9c54-9901e8410fe6
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Project Device Database,f790c4bb-4838-4a58-b232-fe7681daf221
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Third Party Logistics,97ff9aff-d153-4566-982a-31f9bbed736f
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Cooperage Accounting,6f37800c-4fca-4aef-8513-ff7880ca0031
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Support Partners - SE38,72c2b471-909f-4eae-9425-d0c33deca5d4
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Visitor Management App,6217a14e-a942-4e76-a13b-89c9190e0a4c
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,VIP iDig,fdf1a9a7-795f-4d82-9317-0e86942fda14
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Supply Chain Management,b126f197-a33d-4ea1-ac44-3ecfc3f87e5a
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,DataStage,580dec9d-a945-4933-98f4-88346e044b1e
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,naz-lola,2fefe131-7fb0-4e43-a375-49e23b00c7f0
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Booking Back Office,fe4a17d7-5aea-4e38-8d63-5453a7020e8a
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Commodity Tracking System,18af6692-3cbc-4b1b-b0c8-62b610058960
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Cloud Adoption,8b91a900-c593-4522-ad4b-d5e85a71d92e
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,TechOps Platforms - Windows,7b364b35-5bd0-478d-a028-77e4e27557bc
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,MQSeries,c0bf7cec-c587-4d4f-94a1-e6523f527c75
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Ariba Spend Visibility,ba018053-07e0-4e1d-aac4-bb56c0527f42
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,CTS Approvers,eb5621c1-5b90-4e83-8246-68b4e11d07d8
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,DS_O EDGE Process,85f72672-bab1-446e-91e5-8f9972d594b0
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Taleo,85ec3d99-b295-4e62-880d-84e5754889b3
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Product Package System,28c7095a-594e-4de1-9b68-bcad2ca2dc4f
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Accounts Receivable,788a1d1a-1542-4454-bd95-941ec921e3ad
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Federal Beer Records,b8e2123a-73a8-4bfc-9783-ed69718ac78a
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,APO - Canada Instance,90dc8d6e-1132-498f-a82e-cee0b7ea8167
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Hyperion Enterprise,73c27b2a-7f71-452f-947c-b3a81937331c
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Daily Sales Input Wizard,9f915634-f3cc-43c2-bb85-e77b8332ffdc
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Epicor Docstar ECM,009ac28f-9af5-4008-8528-c0004bb85812
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,BudNET Feedback,215ce276-d3dc-4e7e-816b-9ba5502ba05e
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Logistics Scheduler,dfa6e372-84cc-481c-bdc4-bcdfd8dd4860
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Pinnacle External Custom Code,31d36dc2-f0db-476f-8c2e-dbc7d14761e0
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,TechOps Platforms - Observability,00cdf069-e780-444b-a0ae-e34501ca0d57
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Engineering,062b988c-7521-4e88-a2a4-33f656002da0
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,btos,afeb72e1-3a0c-4a52-894b-21889a9a3e75
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,ABWeb Corp Intranet Subsites,b20180e8-9a1b-4998-b91c-4df1a8312a25
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Planogram Processing - WalMart,0cd85d07-d63a-4ac5-b064-63ccf4b4652d
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,SAP GRC Global Trade Services,43e4677a-4b12-4ff4-b64c-50debeb6ed57
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Support Partners - Global,8bcba23f-cef7-4c02-89f7-9dc129153769
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Kalido Master Data Management Canada,66073aca-2415-4a04-b2df-53e7f70ad70f
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Benefits - Metlife,e602625b-22fb-4c3c-aa4a-c94ce2736ef8
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,BudNET Documentation,5d8b6d11-caa3-4cd1-99ff-31403f69bafa
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Management Reporting,a9374fcf-8596-40cc-8e94-d93c54f49d21
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,OnCall Telesales,7483e747-71e7-40a2-81a2-c52c033d4079
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,ABI-NAZ-MULEGlobal,98477ed0-75fd-4e2f-810d-1a9edde8d9b2
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Hero Analytics,2e462402-a8a5-4965-a12b-45b95590128e
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,ABBA,dd62800e-07c5-4b45-b92b-7e8545c8087f
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,PTP Canada Hold Tool,85e39cbb-a787-4f1d-847e-98fcee8f274c
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Custom Groups Application,7cfa3330-398a-4ef1-9d10-a04418840d73
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,AB Marketing,7379719d-d6d9-44c4-8f9e-5a9049af221f
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,ABI-NAZ-MULEDaugherty,10e0156b-12db-4453-9071-4a2fc310dbf8
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Iris,24a77e9e-d9bb-40d6-9a10-a9eb54f261f7
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,SAP NAZ - ABEL,742002ad-3074-4257-b1f7-bda59ad8ff7f
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Plant Requirements,dddfdb8d-3164-44df-a2b5-caea11490585
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,DA Logistics - Planning,3e87caaf-0eda-448b-817e-ecfb46ad95f4
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Consumer Complaints Tracking Defective Material,e8b1be3b-a85b-4ef8-96d2-17b029783a87
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Business Calendar,47ca7c31-5999-4204-845c-ce2bbd7f96a9
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,ST Brewing,9b0585bd-e1e2-45f7-8678-2b0af05b08f0
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Paisley,4bd18f04-69ce-4f9c-8893-2eb373a9ac58
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Product Marketing,ee7315f0-de85-499c-be8c-61387a422ec8
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,BudNET Data Quality Portal,d6c6357d-5438-46fe-9206-bf159b72ca85
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Roadnet Transportaion Suite,75f7899a-b052-4104-ba12-6ffc39dfef67
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,On-Line Operator Help,4c8e8ff1-b76c-4c05-ad20-136fc7ba99cd
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Tier 2 Logistics,1ef60827-1fc8-4c8c-ba49-4bc146389124
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,NAZTech - Portfolio,a74e432c-3913-458d-8773-bb33ee9edb89
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,ST Utilities,ee15d210-a61a-479b-ad8c-862e185fb2ca
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,TechOps Platforms - Storage,5ec851c1-18d3-41bc-87bb-e35ace6d71c9
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Document Management Tool,abe83317-695c-4602-8add-f4df203dceb2
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,DS_O Shelf and Trade Tech,9f9ddbbc-75cf-40c9-bd75-515fef647e43
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Compliance Calibrator,da451250-a77c-4d3c-a07c-e38ff7459418
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,IT Inventory,53e250b8-9e44-464b-9047-428886103f1f
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,ABI-NAZ-Routing Execution Project - 2025,9a146f56-663b-4a06-b828-b5378a90d3be
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,DA Logistics - Modernization,4951afea-48df-4ab3-acb0-f3be534b821d
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,EDI,5619357d-7b87-488e-bd6e-bc683ebd7565
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Misshipment Claims Processing,cb9c9c68-173d-42ca-a0ed-206882455350
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Mule Decom - CamelK,088b0d36-0e3c-42ce-9d13-ac96cce1b0d0
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Engineering - Back-End Services Guild,9226d568-2b21-4d2c-9ac0-affc6c95a0cb
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Federal Alcohol Records,a2ec7450-6d84-40ea-953a-a9da438a7181
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,naz-oneportal,aade1995-f95a-478d-a68d-302bc179ff29
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,DataDog,a8faf1b5-81f1-418b-aee7-52b02f50ccbb
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Contractor 90 Day Expiration,6e080eb8-630f-46a1-905b-f55a35bd2e69
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,NAZ_TECH-MICS Readers,7a91e7d0-0830-4422-9930-2f382c25b0ae
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Variable Pay System for WOD - Kraken,3612ce00-950b-4066-a197-4878636a81bc
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Click People Portal 2.0,15160b94-7679-4338-977c-537575b68e13
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Frontend Engineering - Web,f343d6dd-9029-4d2e-8e23-d55778a9ba35
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Firecall,0116ea82-cd8c-4ab4-915b-42ab64803236
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,Tapwiser Canada,868ca0ab-6ecf-4da6-94ae-e5b973beabf5
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,State Postings,0c1e41a3-3954-4e08-8945-13e2f4948907
+naz_tech,b3f18885-4b1c-4ef2-945e-9386deb96643,PC Compliance - Accident Reporting,040eb538-2949-45b5-b2ee-57a79dac0332
